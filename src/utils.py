@@ -1,4 +1,4 @@
-## Ued for generic Functionalities 
+## Used for generic Functionalities 
 
 import os
 import sys
